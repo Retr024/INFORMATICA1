@@ -3,3 +3,11 @@ intmain()
 {int a;
 printf ("scrivere il tuo voto");
 scanf ("%",&a)
+int a;
+
+printf ("inserisci il tuo voto");
+
+scanf ("%d",&a);
+printf ("hai inserito il numero %d",a);
+return 0;
+}
