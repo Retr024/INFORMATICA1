@@ -1,5 +1,5 @@
 /*
-file: media dei numeri
+file: media dei numeri uno
 autore: Simone Palacino
 classe: 3h
 data: 26/9/2022
