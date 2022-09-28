@@ -1,5 +1,5 @@
 /*
-file: area triangolo
+file: calcolo dell'area
 autore: Simone Palacino
 classe: 3h
 data: 26/9/2022
@@ -12,18 +12,18 @@ int main()
 { //dichiarare le variabii
 	float base,altezza; //input
 	float area; //output
-	
-    //avvalorare input chiedendolo all'utente
+
+ //avvalorare input chiedendolo all'utente
 	printf("inserisci la base \n");
-	scanf("%f, &base");
+	scanf("%f", &base);
 	printf("inserisci l'altezza\n");
-	scanf("%f",&altezza);
+	scanf("%f", &altezza);
 	
 	//elaborazione
-	area=base*altezza/2;
+	area=(base*altezza)/2;
 	
 	//visualizza output
-	printf=("area triangolo con base %f e altezza %f e' %f'",base,altezza,area);
+	printf("area triangolo con base %.2f e altezza %.2f e' %.2f", base, altezza, area);
 	
 	return 0;
 }
