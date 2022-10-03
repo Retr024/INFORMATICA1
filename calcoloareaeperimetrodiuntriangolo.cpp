@@ -7,7 +7,8 @@ data: 26/9/2022
 calcolare l'area del triangolo eil suo perimetro conosciendo base e altezza
 */
 
-#include "stdio.h" //printf, scanf
+#include <stdio.h> //printf, scanf
+#include <math.h>
 int main()
 { //dichiarare le variabii
 	float base;
