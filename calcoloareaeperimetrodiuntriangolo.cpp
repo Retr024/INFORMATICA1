@@ -21,11 +21,12 @@ int main()
 	scanf("%f",&latoobliquo);
 	printf("inserisci quanto vale l'altezza\t");
 	scanf("%f",&altezza);
-	printf("inserisci quanto vale la base\t");
-	scanf("%f",&base);
+	
+	//calcolare la base
+	base=2*sqrt((latoobliquo*latoobliquo)-(altezza*altezza));
 	
 	//elaborazione
-	area=(latoobliquo*altezza)/2;
+	area=(base*altezza)/2;
 	perimetro=latoobliquo+latoobliquo+base;
 	
 	//visualizza output
