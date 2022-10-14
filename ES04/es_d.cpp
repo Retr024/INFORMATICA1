@@ -1,7 +1,7 @@
 /** ****************************************************************************************
 * \mainpage lettura numeri
 *
-* @brief realizzare un programma che Dato un numero inserito dall’utente, compreso tra 100 e 999, stampalo 
+* @brief realizzare un programma che Dato un numero inserito dallâ€™utente, compreso tra 100 e 999, stampalo 
 in modo che ogni cifra sia separata dalle altre da uno spazio.  >
 * <specifiche del collaudo>
 * 
