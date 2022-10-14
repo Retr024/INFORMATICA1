@@ -2,7 +2,7 @@
 * \mainpage lettura numeri
 *
 * @brief realizzare un programma che visualizzi in ingresso 4 numeri che soo i coefficenti di un 
-polinomio -ax^3 +bx^2 - c^x + d e valuta il suo valore in un punto x, sempre inserito dall’utente.
+polinomio -ax^3 +bx^2 - c^x + d e valuta il suo valore in un punto x, sempre inserito dallâ€™utente.
 * <accetta numeri positivi>
 * <specifiche del collaudo>
 * 
