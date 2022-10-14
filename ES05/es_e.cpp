@@ -1,7 +1,7 @@
 /** ****************************************************************************************
 * \mainpage lettura numeri
 *
-* @brief realizzare un programma che calcola l’area e il perimetro di un trapezio dopo aver letto i dati necessari
+* @brief realizzare un programma che calcola lâ€™area e il perimetro di un trapezio dopo aver letto i dati necessari
 * <accetta numeri positivi>
 * <specifiche del collaudo>
 * 
