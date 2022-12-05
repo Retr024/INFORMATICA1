@@ -15,7 +15,7 @@ int main()
 	int num1;
 	int divisore;
 	
-	printf("inserisci un numero intero\t");
+	printf("inserisci un numero intero divisibile per 2\t");
 	scanf("%d",&num1);
 	
 	for(divisore=2;divisore<2;divisore++)
