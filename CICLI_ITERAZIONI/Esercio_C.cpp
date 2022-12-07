@@ -16,7 +16,7 @@ int main()
 	int media;
 	int cont;
 	
-	for(cont=0;numeri!=0;cont++)
+	for(cont=-1;numeri!=0;cont++)
 	{
 		printf("inserisci un numero intero\t");
 		scanf("%d",&numeri);
