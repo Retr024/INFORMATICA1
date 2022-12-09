@@ -16,13 +16,13 @@ int main()
 	
 	printf("inserisci un numero intero\t");
 	scanf("%d",&num);
-	
-	for(num;num>=1;num--)
+	//inizio cliclo for
+	for(num;num>=1;num--)//diamo una condizione a num e che ogni calcolo svolto di diminuire
 	{
-		risultato=risultato*num;
+		risultato=risultato*num;//scriviamo la formula per calcolare il fattoriale
 	}
-	printf("il risultato e %d\t",risultato);
-	
+	printf("il risultato e %d\t",risultato);//printf finale con il risultato
+	//fine programma
 	return 0;
 }
 	
