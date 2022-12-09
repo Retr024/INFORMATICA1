@@ -15,17 +15,17 @@ int main()
 	int somma=0;
 	int media;
 	int cont;
-	
-	for(cont=-1;numeri!=0;cont++)
+	//ciclo for con numeri diversi da zero
+	for(cont=-1;numeri!=0;cont++) //mano a mano diamo un numero in più
 	{
 		printf("inserisci un numero intero\t");
 		scanf("%d",&numeri);
 		
-		somma= numeri+somma;
+		somma= numeri+somma; //calcolo dei numeri insieme alla somma
 	}
 	
-	media= somma/cont;
+	media= somma/cont; //calcolo della media aritmetica
 	printf("la media e'%d",media);
 
-   return 0;	
+   return 0;//fine programma	
 }
